@@ -1,0 +1,44 @@
+
+
+body {
+
+	background-color: white;
+	color: white;
+}
+
+#nav-header {
+background-color: #222;
+height: 50px;
+font-size: 34px;
+font-weight: lighter;
+padding-left: 25px;
+color: #fff;
+
+}
+
+/*
+.spacer {
+
+padding-right: 10px;
+    width: 15px;
+    background-color: #222
+}
+*/
+
+
+/* Visited links under #nav-header */
+#nav-header a, a:visited {
+  text-decoration: none;
+}
+
+.intro-content {
+	box-sizing: border-box;
+	max-width: 760px;
+	width: 100%;
+	margin: 0 auto;
+	padding:60px 20px;
+	text-align: left;
+	display: table;
+	background-color: 238, 238, 238;
+	color: black;
+}
